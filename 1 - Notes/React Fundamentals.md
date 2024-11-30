@@ -1,7 +1,7 @@
 
----
-
 Tags : [[React]] [[fundamentals]]
+
+---
 
 1. **Introduction**
 	- [ ] What is React
